@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "https://andytsang20.github.io/portfolio2"
+baseURL = "https://andytsang20.github.io/portfolio2/"
 languageCode = "en-us"
 title = "Hin Lam Tsang"
 defaultContentLanguage = "en"

@@ -19,7 +19,7 @@ subtitle = "Master's Student in Global History"
 [sidebar.avatar]
 enabled = true
 local = true
-src = "img/me.jpg"
+src = "img/Me.jpg"
 
 [article]
 headingAnchor = false

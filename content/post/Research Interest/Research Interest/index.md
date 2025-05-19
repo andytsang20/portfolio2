@@ -1,6 +1,6 @@
 ---
 title: Research Interest 
-description: 
+description: My detailed research interest
 weight: 3
 ---
 ## 🧠 My Research Interests

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Hin Lam Tsang</title>
+        <link>http://localhost:1313/post/</link>
+        <description>Recent content in Posts on Hin Lam Tsang</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>About Me</title>
+        <link>http://localhost:1313/p/about-me/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/p/about-me/</guid>
+        <description>&lt;img src="http://localhost:1313/p/about-me/cover.jpg" alt="Featured image of post About Me" /&gt;</description>
+        </item>
+        <item>
+        <title>Education</title>
+        <link>http://localhost:1313/p/education/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/p/education/</guid>
+        <description>&lt;p&gt;&lt;strong&gt;Master in Global History&lt;/strong&gt;, Freie Universität Berlin (2023-Present)&lt;/p&gt;
+&lt;p&gt;Engaged in an interdisciplinary program focused on global and transnational historical processes.&lt;/p&gt;
+&lt;p&gt;Developed analytical skills to explore colonialism, globalization, and cultural exchanges across regions and eras.&lt;/p&gt;
+&lt;p&gt;Gained insights into comparative history and historiographical approaches within a global context.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BA in History&lt;/strong&gt;, Chinese University of Hong Kong (2017-2021)&lt;/p&gt;
+&lt;p&gt;Built a strong foundation in historical analysis, research methodology, and academic writing.&lt;/p&gt;
+&lt;p&gt;Studied a wide range of historical topics with emphasis on Chinese and world history.&lt;/p&gt;
+&lt;p&gt;Strengthened skills in critical thinking, primary source evaluation, and historiography.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Research Interest</title>
+        <link>http://localhost:1313/p/research-interest/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/p/research-interest/</guid>
+        <description>&lt;h2 id=&#34;-my-research-interests&#34;&gt;🧠 My Research Interests
+&lt;/h2&gt;&lt;p&gt;My research focuses on the intersection of &lt;strong&gt;history, technology, and memory&lt;/strong&gt;, particularly:&lt;/p&gt;
+&lt;h3 id=&#34;-transitional-justice-and-historical-accountability&#34;&gt;🏛 Transitional Justice and Historical Accountability
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Post-WWII prosecutions of Nazi war criminals in East and West Germany.&lt;/li&gt;
+&lt;li&gt;Comparative legal approaches to justice, truth, and state narratives.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-media-and-public-memory&#34;&gt;📰 Media and Public Memory
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Media framing of war crime trials and its influence on collective memory.&lt;/li&gt;
+&lt;li&gt;Cold War narratives in East/West German press.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-history-and-technology&#34;&gt;🕹 History and Technology
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Use of &lt;strong&gt;Virtual Reality&lt;/strong&gt; and digital media to teach historical content.&lt;/li&gt;
+&lt;li&gt;Gamification of historical narratives and engagement in educational settings.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-global-history&#34;&gt;🌐 Global History
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Comparative historiography between socialist and capitalist states.&lt;/li&gt;
+&lt;li&gt;Transnational dynamics in Cold War-era justice and ideology.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>Skills and Languages</title>
+        <link>http://localhost:1313/p/skills-and-languages/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/p/skills-and-languages/</guid>
+        <description>&lt;h2 id=&#34;skills&#34;&gt;Skills
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Project Management&lt;/li&gt;
+&lt;li&gt;Data Analysis and Reporting&lt;/li&gt;
+&lt;li&gt;Article Research and Analysis&lt;/li&gt;
+&lt;li&gt;Story Plot Composing&lt;/li&gt;
+&lt;li&gt;Press Release Editing&lt;/li&gt;
+&lt;li&gt;C programming&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;languages&#34;&gt;Languages
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Cantonese (Native)&lt;/li&gt;
+&lt;li&gt;English (C1)&lt;/li&gt;
+&lt;li&gt;Mandarin (Advanced)&lt;/li&gt;
+&lt;li&gt;German (B2)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

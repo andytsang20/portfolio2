@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Hin Lam Tsang</title>
+        <link>http://localhost:1313/</link>
+        <description>Recent content on Hin Lam Tsang</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>About Me</title>
+        <link>http://localhost:1313/p/about-me/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/p/about-me/</guid>
+        <description>&lt;img src="http://localhost:1313/p/about-me/cover.jpg" alt="Featured image of post About Me" /&gt;</description>
+        </item>
+        <item>
+        <title>Education</title>
+        <link>http://localhost:1313/p/education/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/p/education/</guid>
+        <description>&lt;p&gt;&lt;strong&gt;Master in Global History&lt;/strong&gt;, Freie Universität Berlin (2023-Present)&lt;/p&gt;
+&lt;p&gt;Engaged in an interdisciplinary program focused on global and transnational historical processes.&lt;/p&gt;
+&lt;p&gt;Developed analytical skills to explore colonialism, globalization, and cultural exchanges across regions and eras.&lt;/p&gt;
+&lt;p&gt;Gained insights into comparative history and historiographical approaches within a global context.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BA in History&lt;/strong&gt;, Chinese University of Hong Kong (2017-2021)&lt;/p&gt;
+&lt;p&gt;Built a strong foundation in historical analysis, research methodology, and academic writing.&lt;/p&gt;
+&lt;p&gt;Studied a wide range of historical topics with emphasis on Chinese and world history.&lt;/p&gt;
+&lt;p&gt;Strengthened skills in critical thinking, primary source evaluation, and historiography.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Research Interest</title>
+        <link>http://localhost:1313/p/research-interest/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/p/research-interest/</guid>
+        <description>&lt;h2 id=&#34;-my-research-interests&#34;&gt;🧠 My Research Interests
+&lt;/h2&gt;&lt;p&gt;My research focuses on the intersection of &lt;strong&gt;history, technology, and memory&lt;/strong&gt;, particularly:&lt;/p&gt;
+&lt;h3 id=&#34;-transitional-justice-and-historical-accountability&#34;&gt;🏛 Transitional Justice and Historical Accountability
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Post-WWII prosecutions of Nazi war criminals in East and West Germany.&lt;/li&gt;
+&lt;li&gt;Comparative legal approaches to justice, truth, and state narratives.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-media-and-public-memory&#34;&gt;📰 Media and Public Memory
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Media framing of war crime trials and its influence on collective memory.&lt;/li&gt;
+&lt;li&gt;Cold War narratives in East/West German press.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-history-and-technology&#34;&gt;🕹 History and Technology
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Use of &lt;strong&gt;Virtual Reality&lt;/strong&gt; and digital media to teach historical content.&lt;/li&gt;
+&lt;li&gt;Gamification of historical narratives and engagement in educational settings.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-global-history&#34;&gt;🌐 Global History
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Comparative historiography between socialist and capitalist states.&lt;/li&gt;
+&lt;li&gt;Transnational dynamics in Cold War-era justice and ideology.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>Skills and Languages</title>
+        <link>http://localhost:1313/p/skills-and-languages/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/p/skills-and-languages/</guid>
+        <description>&lt;h2 id=&#34;skills&#34;&gt;Skills
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Project Management&lt;/li&gt;
+&lt;li&gt;Data Analysis and Reporting&lt;/li&gt;
+&lt;li&gt;Article Research and Analysis&lt;/li&gt;
+&lt;li&gt;Story Plot Composing&lt;/li&gt;
+&lt;li&gt;Press Release Editing&lt;/li&gt;
+&lt;li&gt;C programming&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;languages&#34;&gt;Languages
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Cantonese (Native)&lt;/li&gt;
+&lt;li&gt;English (C1)&lt;/li&gt;
+&lt;li&gt;Mandarin (Advanced)&lt;/li&gt;
+&lt;li&gt;German (B2)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>Projects</title>
+        <link>http://localhost:1313/projects/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/projects/</guid>
+        <description>&lt;h2 id=&#34;-virtual-reality-chinese-history-games&#34;&gt;🎮 Virtual Reality Chinese History Games
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Designed and edited educational story plots.&lt;/li&gt;
+&lt;li&gt;Collaborated with professors and developers.&lt;/li&gt;
+&lt;li&gt;Delivered immersive learning experiences via VR.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-history-competition-with-hong-kong-education-bureau&#34;&gt;🏛 History Competition (with Hong Kong Education Bureau)
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Co-organized a territory-wide history competition.&lt;/li&gt;
+&lt;li&gt;Managed logistics, submissions, and promotions.&lt;/li&gt;
+&lt;li&gt;Helped draft and submit proposals for funding.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-academic-research-support&#34;&gt;✍️ Academic Research Support
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Conducted source analysis for professors&amp;rsquo; dissertations.&lt;/li&gt;
+&lt;li&gt;Supported the editing of academic articles and grant applications.&lt;/li&gt;
+&lt;li&gt;Drafted official reports and press releases.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-facility-and-event-management-sino-group&#34;&gt;🛠 Facility and Event Management (Sino Group)
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Handled clubhouse operations and tenant inquiries.&lt;/li&gt;
+&lt;li&gt;Coordinated with marketing team on promotional events.&lt;/li&gt;
+&lt;li&gt;Conducted evaluations and internal reporting.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>Work Experience</title>
+        <link>http://localhost:1313/work-experience/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/work-experience/</guid>
+        <description>&lt;p&gt;📄 &lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/Hin_Lam_Tsang_Resume.pdf&#34; &gt;Download My CV (PDF)&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-research-assistant&#34;&gt;🧪 Research Assistant
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;The Education University of Hong Kong&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;Apr 2022 – Aug 2023&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Analyzed historical sources for academic dissertations.&lt;/li&gt;
+&lt;li&gt;Organized a history competition in collaboration with the Hong Kong Education Bureau.&lt;/li&gt;
+&lt;li&gt;Developed Chinese History Virtual Reality Games (including story plot composition).&lt;/li&gt;
+&lt;li&gt;Drafted grant proposals and final reports.&lt;/li&gt;
+&lt;li&gt;Edited press releases and supported academic publishing.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-assistant-property-officer&#34;&gt;🏢 Assistant Property Officer
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Sino Group, Hong Kong&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;Jun 2021 – Aug 2021&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Handled tenant inquiries and rental operations.&lt;/li&gt;
+&lt;li&gt;Oversaw clubhouse facilities and ensured service standards.&lt;/li&gt;
+&lt;li&gt;Collaborated with marketing and event teams.&lt;/li&gt;
+&lt;li&gt;Led meetings and evaluated promotional activities.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-private-tutor&#34;&gt;🧑‍🏫 Private Tutor
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Self-employed&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;2018 – 2020 (Part-time)&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Taught History and Chinese to secondary students.&lt;/li&gt;
+&lt;li&gt;Developed tailored lesson plans and study materials.&lt;/li&gt;
+&lt;li&gt;Helped students improve public exam performance.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

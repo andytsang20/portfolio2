@@ -2,28 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://andytsang20.github.io/portfolio2/p/about-me/</loc>
+    <loc>http://localhost:1313/p/about-me/</loc>
   </url><url>
-    <loc>https://andytsang20.github.io/portfolio2/p/education/</loc>
+    <loc>http://localhost:1313/p/education/</loc>
   </url><url>
-    <loc>https://andytsang20.github.io/portfolio2/p/research-interest/</loc>
+    <loc>http://localhost:1313/p/research-interest/</loc>
   </url><url>
-    <loc>https://andytsang20.github.io/portfolio2/p/skills-and-languages/</loc>
+    <loc>http://localhost:1313/p/skills-and-languages/</loc>
   </url><url>
-    <loc>https://andytsang20.github.io/portfolio2/</loc>
+    <loc>http://localhost:1313/</loc>
   </url><url>
-    <loc>https://andytsang20.github.io/portfolio2/categories/example-category/</loc>
+    <loc>http://localhost:1313/categories/example-category/</loc>
   </url><url>
-    <loc>https://andytsang20.github.io/portfolio2/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://andytsang20.github.io/portfolio2/page/</loc>
+    <loc>http://localhost:1313/page/</loc>
   </url><url>
-    <loc>https://andytsang20.github.io/portfolio2/post/</loc>
+    <loc>http://localhost:1313/post/</loc>
   </url><url>
-    <loc>https://andytsang20.github.io/portfolio2/projects/</loc>
+    <loc>http://localhost:1313/projects/</loc>
   </url><url>
-    <loc>https://andytsang20.github.io/portfolio2/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url><url>
-    <loc>https://andytsang20.github.io/portfolio2/work-experience/</loc>
+    <loc>http://localhost:1313/work-experience/</loc>
   </url>
 </urlset>

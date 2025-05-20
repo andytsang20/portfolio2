@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Hin Lam Tsang</title>
-        <link>https://andytsang20.github.io/portfolio2/</link>
+        <link>http://localhost:1313/</link>
         <description>Recent content on Hin Lam Tsang</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language><atom:link href="https://andytsang20.github.io/portfolio2/index.xml" rel="self" type="application/rss+xml" /><item>
+        <language>en-us</language><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>About Me</title>
-        <link>https://andytsang20.github.io/portfolio2/p/about-me/</link>
+        <link>http://localhost:1313/p/about-me/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://andytsang20.github.io/portfolio2/p/about-me/</guid>
-        <description>&lt;img src="https://andytsang20.github.io/portfolio2/p/about-me/cover.jpg" alt="Featured image of post About Me" /&gt;</description>
+        <guid>http://localhost:1313/p/about-me/</guid>
+        <description>&lt;img src="http://localhost:1313/p/about-me/cover.jpg" alt="Featured image of post About Me" /&gt;</description>
         </item>
         <item>
         <title>Education</title>
-        <link>https://andytsang20.github.io/portfolio2/p/education/</link>
+        <link>http://localhost:1313/p/education/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://andytsang20.github.io/portfolio2/p/education/</guid>
+        <guid>http://localhost:1313/p/education/</guid>
         <description>&lt;p&gt;&lt;strong&gt;Master in Global History&lt;/strong&gt;, Freie Universität Berlin (2023-Present)&lt;/p&gt;
 &lt;p&gt;Engaged in an interdisciplinary program focused on global and transnational historical processes.&lt;/p&gt;
 &lt;p&gt;Developed analytical skills to explore colonialism, globalization, and cultural exchanges across regions and eras.&lt;/p&gt;
@@ -31,10 +31,10 @@
         </item>
         <item>
         <title>Research Interest</title>
-        <link>https://andytsang20.github.io/portfolio2/p/research-interest/</link>
+        <link>http://localhost:1313/p/research-interest/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://andytsang20.github.io/portfolio2/p/research-interest/</guid>
+        <guid>http://localhost:1313/p/research-interest/</guid>
         <description>&lt;h2 id=&#34;-my-research-interests&#34;&gt;🧠 My Research Interests
 &lt;/h2&gt;&lt;p&gt;My research focuses on the intersection of &lt;strong&gt;history, technology, and memory&lt;/strong&gt;, particularly:&lt;/p&gt;
 &lt;h3 id=&#34;-transitional-justice-and-historical-accountability&#34;&gt;🏛 Transitional Justice and Historical Accountability
@@ -61,10 +61,10 @@
         </item>
         <item>
         <title>Skills and Languages</title>
-        <link>https://andytsang20.github.io/portfolio2/p/skills-and-languages/</link>
+        <link>http://localhost:1313/p/skills-and-languages/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://andytsang20.github.io/portfolio2/p/skills-and-languages/</guid>
+        <guid>http://localhost:1313/p/skills-and-languages/</guid>
         <description>&lt;h2 id=&#34;skills&#34;&gt;Skills
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;Project Management&lt;/li&gt;
@@ -85,10 +85,10 @@
         </item>
         <item>
         <title>Projects</title>
-        <link>https://andytsang20.github.io/portfolio2/projects/</link>
+        <link>http://localhost:1313/projects/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://andytsang20.github.io/portfolio2/projects/</guid>
+        <guid>http://localhost:1313/projects/</guid>
         <description>&lt;h2 id=&#34;-virtual-reality-chinese-history-games&#34;&gt;🎮 Virtual Reality Chinese History Games
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;Designed and edited educational story plots.&lt;/li&gt;
@@ -120,11 +120,11 @@
         </item>
         <item>
         <title>Work Experience</title>
-        <link>https://andytsang20.github.io/portfolio2/work-experience/</link>
+        <link>http://localhost:1313/work-experience/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://andytsang20.github.io/portfolio2/work-experience/</guid>
-        <description>&lt;p&gt;📄 &lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://andytsang20.github.io/portfolio2/Hin_Lam_Tsang_Resume.pdf&#34; &gt;Download My CV (PDF)&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+        <guid>http://localhost:1313/work-experience/</guid>
+        <description>&lt;p&gt;📄 &lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/Hin_Lam_Tsang_Resume.pdf&#34; &gt;Download My CV (PDF)&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;-research-assistant&#34;&gt;🧪 Research Assistant
 &lt;/h2&gt;&lt;p&gt;&lt;strong&gt;The Education University of Hong Kong&lt;/strong&gt;&lt;br&gt;

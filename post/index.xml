@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on Hin Lam Tsang</title>
-        <link>http://localhost:1313/post/</link>
+        <link>https://andytsang20.github.io/portfolio2/post/</link>
         <description>Recent content in Posts on Hin Lam Tsang</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <language>en-us</language><atom:link href="https://andytsang20.github.io/portfolio2/post/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>About Me</title>
-        <link>http://localhost:1313/p/about-me/</link>
+        <link>https://andytsang20.github.io/portfolio2/p/about-me/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/about-me/</guid>
-        <description>&lt;img src="http://localhost:1313/p/about-me/cover.jpg" alt="Featured image of post About Me" /&gt;</description>
+        <guid>https://andytsang20.github.io/portfolio2/p/about-me/</guid>
+        <description>&lt;img src="https://andytsang20.github.io/portfolio2/p/about-me/cover.jpg" alt="Featured image of post About Me" /&gt;</description>
         </item>
         <item>
         <title>Education</title>
-        <link>http://localhost:1313/p/education/</link>
+        <link>https://andytsang20.github.io/portfolio2/p/education/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/education/</guid>
+        <guid>https://andytsang20.github.io/portfolio2/p/education/</guid>
         <description>&lt;p&gt;&lt;strong&gt;Master in Global History&lt;/strong&gt;, Freie Universität Berlin (2023-Present)&lt;/p&gt;
 &lt;p&gt;Engaged in an interdisciplinary program focused on global and transnational historical processes.&lt;/p&gt;
 &lt;p&gt;Developed analytical skills to explore colonialism, globalization, and cultural exchanges across regions and eras.&lt;/p&gt;
@@ -31,10 +31,10 @@
         </item>
         <item>
         <title>Research Interest</title>
-        <link>http://localhost:1313/p/research-interest/</link>
+        <link>https://andytsang20.github.io/portfolio2/p/research-interest/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/research-interest/</guid>
+        <guid>https://andytsang20.github.io/portfolio2/p/research-interest/</guid>
         <description>&lt;h2 id=&#34;-my-research-interests&#34;&gt;🧠 My Research Interests
 &lt;/h2&gt;&lt;p&gt;My research focuses on the intersection of &lt;strong&gt;history, technology, and memory&lt;/strong&gt;, particularly:&lt;/p&gt;
 &lt;h3 id=&#34;-transitional-justice-and-historical-accountability&#34;&gt;🏛 Transitional Justice and Historical Accountability
@@ -61,10 +61,10 @@
         </item>
         <item>
         <title>Skills and Languages</title>
-        <link>http://localhost:1313/p/skills-and-languages/</link>
+        <link>https://andytsang20.github.io/portfolio2/p/skills-and-languages/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/skills-and-languages/</guid>
+        <guid>https://andytsang20.github.io/portfolio2/p/skills-and-languages/</guid>
         <description>&lt;h2 id=&#34;skills&#34;&gt;Skills
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;Project Management&lt;/li&gt;

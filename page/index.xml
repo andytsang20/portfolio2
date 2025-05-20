@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Pages on Hin Lam Tsang</title>
-        <link>http://localhost:1313/page/</link>
+        <link>https://andytsang20.github.io/portfolio2/page/</link>
         <description>Recent content in Pages on Hin Lam Tsang</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language><atom:link href="http://localhost:1313/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <language>en-us</language><atom:link href="https://andytsang20.github.io/portfolio2/page/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Projects</title>
-        <link>http://localhost:1313/projects/</link>
+        <link>https://andytsang20.github.io/portfolio2/projects/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/projects/</guid>
+        <guid>https://andytsang20.github.io/portfolio2/projects/</guid>
         <description>&lt;h2 id=&#34;-virtual-reality-chinese-history-games&#34;&gt;🎮 Virtual Reality Chinese History Games
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;Designed and edited educational story plots.&lt;/li&gt;
@@ -42,11 +42,11 @@
         </item>
         <item>
         <title>Work Experience</title>
-        <link>http://localhost:1313/work-experience/</link>
+        <link>https://andytsang20.github.io/portfolio2/work-experience/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/work-experience/</guid>
-        <description>&lt;p&gt;📄 &lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/Hin_Lam_Tsang_Resume.pdf&#34; &gt;Download My CV (PDF)&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+        <guid>https://andytsang20.github.io/portfolio2/work-experience/</guid>
+        <description>&lt;p&gt;📄 &lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://andytsang20.github.io/portfolio2/Hin_Lam_Tsang_Resume.pdf&#34; &gt;Download My CV (PDF)&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;-research-assistant&#34;&gt;🧪 Research Assistant
 &lt;/h2&gt;&lt;p&gt;&lt;strong&gt;The Education University of Hong Kong&lt;/strong&gt;&lt;br&gt;

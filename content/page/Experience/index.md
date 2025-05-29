@@ -10,7 +10,7 @@ menu:
 comments: false
 ---
 
-📄 **[Download My CV (PDF)](/Hin_Lam_Tsang_Resume.pdf)**
+📄 **[Download My CV (PDF)](/Hin%20Lam%20Tsang%20Resume%202025%20may.pdf)**
 
 ---
 

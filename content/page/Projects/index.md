@@ -10,6 +10,9 @@ menu:
 ## 🎮 Virtual Reality Chinese History Games
 
 - Designed and edited educational story plots.
+- Led 4 Teams in History Virtual Reality Games.
+- Managed a project of developing Chinese History Virtual Reality Games.
+- Composed and edited story plots of History Virtual Reality Games.
 - Collaborated with professors and developers.
 - Delivered immersive learning experiences via VR.
 

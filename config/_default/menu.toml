@@ -12,4 +12,13 @@ identifier = "linkedin"
 name = "LinkedIn"
 url = "https://www.linkedin.com/in/hin-lam-tsang-3a3815208/"
 
+[social.params]
+icon = "brand-linkedin"
 
+[[social]]
+identifier = "email"
+name = "Email"
+url = "mailto:hin.lam.tsang@web.de"
+
+[social.params]
+icon = "mail"

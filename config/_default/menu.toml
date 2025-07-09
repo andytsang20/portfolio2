@@ -18,5 +18,3 @@ identifier = "email"
 name = "Email"
 url = "mailto:hin.lam.tsang@web.de"
 
-[social.params]
-icon = "mail"

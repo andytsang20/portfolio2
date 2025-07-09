@@ -7,7 +7,7 @@ menu:
         params: 
             icon: archives
 ---
-## 🎮 Virtual Reality Chinese History Games
+## 🎮 Virtual Reality Chinese History Games (2021-2023)
 
 - Designed and edited educational story plots.
 - Led 4 Teams in History Virtual Reality Games.
@@ -17,8 +17,17 @@ menu:
 - Delivered immersive learning experiences via VR.
 
 ---
+## ⚖️ Digital History Project: Justice After Genocide
 
-## 🏛 History Competition (with Hong Kong Education Bureau)
+- Created a public-facing digital project on Nazi crimes and postwar justice in divided Germany.
+- Researched and compared the Frankfurt Auschwitz Trial and the Horst Fischer Trial.
+- Built an interactive website using HTML, CSS, and JavaScript.
+- Integrated maps (Leaflet), timelines, media resources, and 3D models.
+- Hosted the project via GitHub Pages as part of a digital humanities database.
+🔗 View project: https://andytsang20.github.io/Justice-After-Genocide/index.html 
+---
+
+## 🏛 History Competition with Hong Kong Education Bureau (2021-2023)
 
 - Co-organized a territory-wide history competition.
 - Managed logistics, submissions, and promotions.
@@ -26,7 +35,7 @@ menu:
 
 ---
 
-## ✍️ Academic Research Support
+## ✍️ Academic Research Support (2021-2023)
 
 - Conducted source analysis for professors' dissertations.
 - Supported the editing of academic articles and grant applications.
@@ -34,7 +43,7 @@ menu:
 
 ---
 
-## 🛠 Facility and Event Management (Sino Group)
+## 🛠 Facility and Event Management (2021)
 
 - Handled clubhouse operations and tenant inquiries.
 - Coordinated with marketing team on promotional events.
